@@ -1,7 +1,6 @@
 yii2-thrift
 ===========
 yii2 extension for thrift
-基于yii2.0的thrift扩展
 
 安装
 ------------
