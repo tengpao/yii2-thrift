@@ -28,7 +28,7 @@ class ThriftClient
     public $wBufSize = 1024;
 
     /**
-     * @var array
+     * @var array service配置
      * 
      * 每个service独立的配置项,一个service名对应一组配置
      * 以上配置都可以作为service可选独立配置(genDir除外),没有默认使用全局配置
