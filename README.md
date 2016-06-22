@@ -5,9 +5,7 @@ yii2 extension for thrift
 安装
 ------------
 
-The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
-
-Either run
+The preferred way to install this extension is through [composer](http://getcomposer.org/download/) , Either run
 
 ```
 composer require --prefer-dist tengpao/yii2-thrift "*"
