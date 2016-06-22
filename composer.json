@@ -1,0 +1,22 @@
+{
+    "name": "tengpao/yii2-thrift",
+    "description": "yii2 extension for thrift",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","thrift"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "tengpao",
+            "email": "tengpao@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "apache/thrift": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tengpao\\thrift\\": ""
+        }
+    }
+}
